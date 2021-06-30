@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<testsuite name="studytest.start_browser.Login-20210622222355" tests="2" time="0.096" failures="0" errors="0">
+	<testcase classname="studytest.start_browser.Login" name="test_Login" time="0.089"/>
+	<testcase classname="studytest.start_browser.Login" name="test_print_title" time="0.007"/>
+	<system-out><![CDATA[网易公司版权所有©1997-2021
+163网易免费邮--中文邮箱第一品牌
+]]></system-out>
+	<system-err><![CDATA[]]></system-err>
+</testsuite>

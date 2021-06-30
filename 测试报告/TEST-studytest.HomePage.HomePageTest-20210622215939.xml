@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<testsuite name="studytest.HomePage.HomePageTest-20210622215939" tests="4" time="0.062" failures="0" errors="0">
+	<testcase classname="studytest.HomePage.HomePageTest" name="test_csslocate" time="0.018"/>
+	<testcase classname="studytest.HomePage.HomePageTest" name="test_register_is_present" time="0.017"/>
+	<testcase classname="studytest.HomePage.HomePageTest" name="test_search_text" time="0.020"/>
+	<testcase classname="studytest.HomePage.HomePageTest" name="test_youxiang_is_present" time="0.007"/>
+	<system-out><![CDATA[网易公司版权所有©1997-2021
+163网易免费邮--中文邮箱第一品牌
+]]></system-out>
+	<system-err><![CDATA[]]></system-err>
+</testsuite>
